@@ -356,6 +356,7 @@
             </picklistValues>
             <sorted>false</sorted>
         </picklist>
+        <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
     </fields>
@@ -378,6 +379,7 @@
             </picklistValues>
             <sorted>false</sorted>
         </picklist>
+        <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
     </fields>
@@ -416,23 +418,23 @@
         <picklist>
             <picklistValues>
                 <fullName>Open - Not Contacted</fullName>
-                <converted>false</converted>
                 <default>true</default>
+                <converted>false</converted>
             </picklistValues>
             <picklistValues>
                 <fullName>Working - Contacted</fullName>
-                <converted>false</converted>
                 <default>false</default>
+                <converted>false</converted>
             </picklistValues>
             <picklistValues>
                 <fullName>Closed - Converted</fullName>
-                <converted>true</converted>
                 <default>false</default>
+                <converted>true</converted>
             </picklistValues>
             <picklistValues>
                 <fullName>Closed - Not Converted</fullName>
-                <converted>false</converted>
                 <default>false</default>
+                <converted>false</converted>
             </picklistValues>
             <sorted>false</sorted>
         </picklist>
@@ -516,8 +518,9 @@
         <lookupPhoneDialogsAdditionalFields>LEAD.MOBILE_PHONE</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>FULL_NAME</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LEAD.TITLE</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>LEAD.PHONE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LEAD.COMPANY</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>LEAD.PHONE</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>LEAD.MOBILE_PHONE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LEAD.EMAIL</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LEAD.STATUS</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
