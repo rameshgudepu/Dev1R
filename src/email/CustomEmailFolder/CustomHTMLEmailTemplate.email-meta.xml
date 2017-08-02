@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Tesing irgore it</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>letterHead1</letterhead>
+    <name>CustomHTMLEmailTemplate</name>
+    <style>formalLetter</style>
+    <subject>Testing Ignore it</subject>
+    <textOnly>it was testing email</textOnly>
+    <type>html</type>
+</EmailTemplate>
