@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingCriteriaRules>
+        <fullName>CollegeSharingRules1</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>CollegeSharingRules1</label>
+        <sharedTo>
+            <allInternalUsers></allInternalUsers>
+        </sharedTo>
+        <criteriaItems>
+            <field>Name</field>
+            <operation>contains</operation>
+            <value>a</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+</SharingRules>
