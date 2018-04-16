@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>A13</members>
-        <members>AccCls1</members>
-        <members>AccCls2</members>
-        <members>AccCls3</members>
-        <members>AccCls4</members>
-        <members>AccCls5</members>
-        <members>Account1</members>
-        <members>Account1_Test</members>
-        <members>Account_2</members>
+        <members>MyWorld</members>
+        <members>NewYearMsg</members>
+        <members>Welcome</members>
         <name>ApexClass</name>
     </types>
     <types>
