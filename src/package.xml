@@ -1,11 +1,15 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>39.0</version>
     <types>
         <members>MyWorld</members>
         <members>NewYearMsg</members>
         <members>Welcome</members>
         <name>ApexClass</name>
     </types>
-    <version>34.0</version>
+    <types>
+        <members>CustomEmailFolder/CustomHTMLEmailTemplate</members>
+        <name>EmailTemplate</name>
+    </types>
 </Package>
