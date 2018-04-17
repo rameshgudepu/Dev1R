@@ -1,16 +1,43 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+    <version>40.0</version>
     <types>
-        <members>MyWorld</members>
-        <members>NewYearMsg</members>
-        <members>Welcome</members>
+        <members>ARVaultBackupController</members>
+        <members>ARVaultBackupControllerTest</members>
+        <members>ARVaultCompareController</members>
+        <members>ARVaultCompareControllerTest</members>
+        <members>ARVaultRestoreController</members>
+        <members>ARVaultRestoreControllerTest</members>
+        <members>ARVaultService</members>
+        <members>ARVaultServiceTest</members>
+        <members>ARVaultSettingsController</members>
+        <members>ARVaultSettingsControllerTest</members>
+        <members>ARVaultSetupController</members>
+        <members>ARVaultSetupControllerTest</members>
+        <members>ARVaultUserController</members>
+        <members>ChangePasswordController</members>
+        <members>ChangePasswordControllerTest</members>
+        <members>ForgotPasswordController</members>
+        <members>ForgotPasswordControllerTest</members>
+        <members>LoginValidation</members>
+        <members>MockHttpResponseGenerator</members>
+        <members>MockHttpResponseGeneratorTest</members>
+        <members>MyProfilePageControllerTest</members>
+        <members>RemoteSiteHelperController</members>
+        <members>RemoteSiteHelperTest</members>
+        <members>SiteLoginController</members>
+        <members>SiteLoginControllerTest</members>
+        <members>SiteRegisterController</members>
+        <members>SiteRegisterControllerTest</members>
+        <members>TestWebServiceURL</members>
+        <members>ValidateOAuth</members>
+        <members>ValidateOAuthTest</members>
         <name>ApexClass</name>
     </types>
     <types>
-        <members>CustomEmailFolder/CustomHTMLEmailTemplate</members>
-        <name>EmailTemplate</name>
+        <members>standard__Insights</members>
+        <name>CustomApplication</name>
     </types>
     <types>
         <members>CustomEmailFolder/CustomHTMLEmailTemplate</members>
