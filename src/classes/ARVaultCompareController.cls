@@ -28,5 +28,8 @@ public with sharing class ARVaultCompareController {
     @AuraEnabled
     public static List<Object> getCompareMembers(String idUser, String txARVault, Integer fbackupID,Integer sbackupID, String memType, String memName){        
         return ARVaultService.getCompareMembers(idUser, txARVault, fbackupID, sbackupID, memType, memName);
+        
+        
+        
     } 
 }
