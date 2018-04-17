@@ -1,7 +1,7 @@
 public with sharing class ARVaultBackupController {
     
     @AuraEnabled
-    public static String startBackup (String idUser, String txARVault, String sfOrgID, String backupType, String metadataBackup, String dataBackup, String bkpLabel) {
+    public static String startBackup            (String idUser, String txARVault, String sfOrgID, String backupType, String metadataBackup, String dataBackup, String bkpLabel) {
     	return ARVaultService.startBackup(idUser, txARVault, sfOrgID, backupType, metadataBackup, dataBackup, bkpLabel);
     }
     
