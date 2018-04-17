@@ -1,7 +1,10 @@
 @isTest
-public class ARVaultRestoreControllerTest {
+public class ARVaultRestoreControllerTest       {
     
     static testMethod void test_getCompletedBackups_UseCase1(){
+        
+        
+        
         Test.setMock(HttpCalloutMock.class, new MockHttpResponseGenerator());
         List<Object> backupList = ARVaultRestoreController.getCompletedBackups('0f913a9c-a99e-45fb-adc2-d7c4a9713dce', 'MTIzNDU2','00D1I000000kyuFUAQ');
         System.assertNotEquals(null, backupList);
