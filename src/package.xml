@@ -11,4 +11,8 @@
         <members>CustomEmailFolder/CustomHTMLEmailTemplate</members>
         <name>EmailTemplate</name>
     </types>
+    <types>
+        <members>CustomEmailFolder/CustomHTMLEmailTemplate</members>
+        <name>EmailTemplate</name>
+    </types>
 </Package>
