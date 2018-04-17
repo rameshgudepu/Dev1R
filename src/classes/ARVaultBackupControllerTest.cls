@@ -33,6 +33,10 @@ public class ARVaultBackupControllerTest {
     }
     
     static testMethod void test_isEmailAttachment_UseCase1(){
+       
+       
+       
+       
          String sample = '[{"backupId":1719,"idCfgBakup":"7a6f008215a14fa488f6be78f2c2b323","bkpLabel":"SCHEDULEDBACKUP05-Mar-2018 13-00-00","liveStatus":"Transferring retrieved records to backup environment","flBakupTyp":"SCHEDULED","idUser":"f939bec89dc549d9bb2a5ef164ac0eb5","strTotDuration":224,"nbrTotApi":252,"nbrTotRecords":9,"successCount":9,"metaSuccessCount":906,"metaTotalCount":624,"metaTotDuration":62,"objProcStatus":"COMPLETED","isFullDataBackup":"no","isFullMetaBackup":"yes","tmStamp":1520254800000},{"backupId":1687,"idCfgBakup":"7a6f008215a14fa488f6be78f2c2b323","bkpLabel":"SCHEDULEDBACKUP27-Feb-2018 13-00-00","liveStatus":"Transferring retrieved records to backup environment","flBakupTyp":"SCHEDULED","idUser":"f939bec89dc549d9bb2a5ef164ac0eb5","strTotDuration":224,"nbrTotApi":254,"nbrTotRecords":883,"successCount":883,"metaSuccessCount":906,"metaTotalCount":624,"metaTotDuration":56,"objProcStatus":"COMPLETED","isFullDataBackup":"no","isFullMetaBackup":"yes","tmStamp":1519736400000},{"backupId":1226,"idCfgBakup":"7a6f008215a14fa488f6be78f2c2b323","bkpLabel":"SCHEDULEDBACKUP04-Feb-2018 13-00-00","liveStatus":"Transferring retrieved records to backup environment","flBakupTyp":"SCHEDULED","idUser":"f939bec89dc549d9bb2a5ef164ac0eb5","strTotDuration":215,"nbrTotApi":259,"nbrTotRecords":19,"successCount":19,"metaSuccessCount":770,"metaTotalCount":559,"metaTotDuration":50,"objProcStatus":"COMPLETED","isFullDataBackup":"no","isFullMetaBackup":"yes","tmStamp":1517749200000}]';
          boolean isExists = ARVaultBackupController.isEmailAttachment('00D1I000000kyuFUAQ',sample,'Backup');
          System.assertEquals(true, isExists);
