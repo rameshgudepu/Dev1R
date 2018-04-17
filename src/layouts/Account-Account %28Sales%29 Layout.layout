@@ -45,10 +45,13 @@
                 <behavior>Edit</behavior>
                 <field>NumberOfEmployees</field>
             </layoutItems>
+<<<<<<< HEAD
             <layoutItems>
                 <behavior>Required</behavior>
                 <field>AccountDescTest__c</field>
             </layoutItems>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -222,14 +225,21 @@
         <quickActionListItems>
             <quickActionName>FeedItem.QuestionPost</quickActionName>
         </quickActionListItems>
+<<<<<<< HEAD
         <quickActionListItems>
             <quickActionName>SendEmail</quickActionName>
         </quickActionListItems>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
     </quickActionList>
     <relatedContent>
         <relatedContentItems>
             <layoutItem>
+<<<<<<< HEAD
                 <component>runtime_sales_social:socialPanel</component>
+=======
+                <component>sfa:socialPanel</component>
+>>>>>>> 5d53638... Commit From AutoRABIT
             </layoutItem>
         </relatedContentItems>
     </relatedContent>

@@ -4857,9 +4857,15 @@
         </countries>
         <countries>
             <active>true</active>
+<<<<<<< HEAD
             <integrationValue>Vietnam</integrationValue>
             <isoCode>VN</isoCode>
             <label>Vietnam</label>
+=======
+            <integrationValue>Viet Nam</integrationValue>
+            <isoCode>VN</isoCode>
+            <label>Viet Nam</label>
+>>>>>>> 5d53638... Commit From AutoRABIT
             <orgDefault>false</orgDefault>
             <standard>true</standard>
             <visible>true</visible>

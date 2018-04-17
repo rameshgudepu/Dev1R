@@ -24,6 +24,7 @@
         <type>Lookup</type>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>ParentId</fullName>
         <type>Lookup</type>
     </fields>
@@ -31,6 +32,8 @@
         <fullName>RetryCount</fullName>
     </fields>
     <fields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         <fullName>SalesforceUserId</fullName>
         <type>Lookup</type>
     </fields>

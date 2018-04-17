@@ -18,10 +18,13 @@
                 <behavior>Edit</behavior>
                 <field>Comments</field>
             </layoutItems>
+<<<<<<< HEAD
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>UAT_fields__c</field>
             </layoutItems>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         </layoutColumns>
         <style>OneColumn</style>
     </layoutSections>

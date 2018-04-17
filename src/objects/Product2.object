@@ -21,6 +21,13 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
+=======
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -43,6 +50,7 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>DisplayUrl</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -57,6 +65,16 @@
     </fields>
     <fields>
         <fullName>Family</fullName>
+=======
+        <fullName>Family</fullName>
+        <picklist>
+            <picklistValues>
+                <fullName>None</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>
@@ -72,6 +90,7 @@
         <fullName>ProductCode</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+<<<<<<< HEAD
     <fields>
         <fullName>QuantityUnitOfMeasure</fullName>
         <trackHistory>false</trackHistory>
@@ -81,6 +100,8 @@
         <fullName>StockKeepingUnit</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
     <listViews>
         <fullName>AllProducts</fullName>
         <filterScope>Everything</filterScope>
@@ -103,5 +124,8 @@
         <searchResultsAdditionalFields>PRODUCT2.DESCRIPTION</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>PRODUCT2.FAMILY</searchResultsAdditionalFields>
     </searchLayouts>
+<<<<<<< HEAD
     <sharingModel>ReadWrite</sharingModel>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
 </CustomObject>

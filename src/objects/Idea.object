@@ -20,10 +20,22 @@
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>Categories</fullName>
+<<<<<<< HEAD
+=======
+        <picklist>
+            <sorted>false</sorted>
+        </picklist>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <type>Picklist</type>
     </fields>
     <fields>
         <fullName>Status</fullName>
+<<<<<<< HEAD
+=======
+        <picklist>
+            <sorted>false</sorted>
+        </picklist>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <type>Picklist</type>
     </fields>
     <listViews>

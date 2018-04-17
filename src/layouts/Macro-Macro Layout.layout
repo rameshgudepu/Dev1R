@@ -18,10 +18,13 @@
                 <behavior>Edit</behavior>
                 <field>Description</field>
             </layoutItems>
+<<<<<<< HEAD
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>StartingContext</field>
             </layoutItems>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         </layoutColumns>
         <style>OneColumn</style>
     </layoutSections>
@@ -32,9 +35,12 @@
         <layoutColumns/>
         <style>CustomLinks</style>
     </layoutSections>
+<<<<<<< HEAD
     <miniLayout>
         <fields>StartingContext</fields>
     </miniLayout>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
     <showEmailCheckbox>false</showEmailCheckbox>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>

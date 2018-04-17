@@ -45,7 +45,10 @@
         <rightComponents>
             <componentType>CustomButtons</componentType>
         </rightComponents>
+<<<<<<< HEAD
         <useInlineFiltersInConsole>false</useInlineFiltersInConsole>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
     </feedLayout>
     <headers>PersonalTagging</headers>
     <headers>PublicTagging</headers>
@@ -79,10 +82,13 @@
                 <behavior>Required</behavior>
                 <field>Type</field>
             </layoutItems>
+<<<<<<< HEAD
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>UAT_fields__c</field>
             </layoutItems>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -231,9 +237,12 @@
             <quickActionName>Case.LogACall</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
+<<<<<<< HEAD
             <quickActionName>Case.CaseComment</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
             <quickActionName>Case.ChangeStatus</quickActionName>
         </quickActionListItems>
         <quickActionListItems>

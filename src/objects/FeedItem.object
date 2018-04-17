@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionOverrides>
+<<<<<<< HEAD
+=======
+        <actionName>Bookmark</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <actionName>CancelEdit</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
+=======
+        <actionName>DeleteFeedItem</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>EditPost</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <actionName>EditTopics</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
+=======
+        <actionName>Flag</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>RemoveAllFlags</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <actionName>SaveEdit</actionName>
         <type>Default</type>
     </actionOverrides>

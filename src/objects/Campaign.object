@@ -25,6 +25,13 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
+=======
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -46,7 +53,10 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
+<<<<<<< HEAD
     <enableHistory>false</enableHistory>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
     <fields>
         <fullName>ActualCost</fullName>
     </fields>
@@ -60,10 +70,13 @@
         <fullName>BudgetedCost</fullName>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>CampaignImageId</fullName>
         <type>Lookup</type>
     </fields>
     <fields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         <fullName>CampaignMemberRecordTypeId</fullName>
         <type>Lookup</type>
     </fields>
@@ -155,10 +168,86 @@
     </fields>
     <fields>
         <fullName>Status</fullName>
+<<<<<<< HEAD
+=======
+        <picklist>
+            <picklistValues>
+                <fullName>Planned</fullName>
+                <default>true</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>In Progress</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Completed</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Aborted</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <type>Picklist</type>
     </fields>
     <fields>
         <fullName>Type</fullName>
+<<<<<<< HEAD
+=======
+        <picklist>
+            <picklistValues>
+                <fullName>Conference</fullName>
+                <default>true</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Webinar</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Trade Show</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Public Relations</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Partners</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Referral Program</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Advertisement</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Banner Ads</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Direct Mail</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Email</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Telemarketing</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <type>Picklist</type>
     </fields>
     <listViews>
@@ -188,12 +277,15 @@
         <lookupDialogsAdditionalFields>CAMPAIGN.NAME</lookupDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>CAMPAIGN.NAME</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>CAMPAIGN.NAME</searchResultsAdditionalFields>
+<<<<<<< HEAD
         <searchResultsAdditionalFields>PARENT_NAME</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CAMPAIGN.CAMPAIGN_TYPE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CAMPAIGN.STATUS</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CAMPAIGN.START_DATE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CAMPAIGN.END_DATE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CAMPAIGN.NUM_RESPONSES</searchResultsAdditionalFields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>FullAccess</sharingModel>

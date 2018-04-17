@@ -29,6 +29,13 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
+=======
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -172,6 +179,12 @@
     </fields>
     <fields>
         <fullName>Type</fullName>
+<<<<<<< HEAD
+=======
+        <picklist>
+            <sorted>false</sorted>
+        </picklist>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <trackHistory>true</trackHistory>
         <type>Picklist</type>
     </fields>
@@ -210,11 +223,14 @@
         <lookupPhoneDialogsAdditionalFields>ORDERS.ORDER_NUMBER</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>CONTRACT.OWNERALIAS</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>ORDERS.ORDER_NUMBER</searchResultsAdditionalFields>
+<<<<<<< HEAD
         <searchResultsAdditionalFields>SALES.ACCOUNT.NAME</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ORDERS.TOTAL_AMOUNT</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ORDERS.EFFECTIVE_DATE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ORDERS.STATUS</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CONTRACT.CONTRACT_NUMBER</searchResultsAdditionalFields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
     </searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>

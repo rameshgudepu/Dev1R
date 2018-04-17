@@ -25,7 +25,10 @@
     <relatedObjects>CallCenterId</relatedObjects>
     <relatedObjects>ProfilePhotoId</relatedObjects>
     <relatedObjects>WorkspaceId</relatedObjects>
+<<<<<<< HEAD
     <relatedObjects>BannerPhotoId</relatedObjects>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CaseSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+<<<<<<< HEAD
     <caseAssignNotificationTemplate>EMailTemp02/SupportCaseAssignmentNotification</caseAssignNotificationTemplate>
+=======
+    <caseAssignNotificationTemplate>unfiled$public/SupportCaseAssignmentNotification</caseAssignNotificationTemplate>
+>>>>>>> 5d53638... Commit From AutoRABIT
     <caseCreateNotificationTemplate>unfiled$public/SupportCaseCreatedPhoneInquiries</caseCreateNotificationTemplate>
     <caseFeedItemSettings>
         <characterLimit>400</characterLimit>
@@ -9,9 +13,15 @@
         <feedItemType>EmailMessageEvent</feedItemType>
     </caseFeedItemSettings>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
+<<<<<<< HEAD
     <defaultCaseOwner>eswar.acc1@ar.com</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
     <defaultCaseUser>eswar.acc1@ar.com</defaultCaseUser>
+=======
+    <defaultCaseOwner>eswar.d@dev.com</defaultCaseOwner>
+    <defaultCaseOwnerType>User</defaultCaseOwnerType>
+    <defaultCaseUser>eswar.d@dev.com</defaultCaseUser>
+>>>>>>> 5d53638... Commit From AutoRABIT
     <emailToCase>
         <enableEmailToCase>false</enableEmailToCase>
     </emailToCase>
@@ -23,7 +33,10 @@
     <notifyOwnerOnCaseComment>false</notifyOwnerOnCaseComment>
     <notifyOwnerOnCaseOwnerChange>false</notifyOwnerOnCaseOwnerChange>
     <useSystemEmailAddress>true</useSystemEmailAddress>
+<<<<<<< HEAD
     <useSystemUserAsDefaultCaseUser>false</useSystemUserAsDefaultCaseUser>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
     <webToCase>
         <caseOrigin>Web</caseOrigin>
         <defaultResponseTemplate>unfiled$public/SupportCaseCreatedWebInquiries</defaultResponseTemplate>

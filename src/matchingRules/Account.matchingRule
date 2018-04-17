@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <MatchingRules xmlns="http://soap.sforce.com/2006/04/metadata">
     <matchingRules>
         <fullName>AccountDuplicateRule2_matching_rule</fullName>
@@ -31,3 +32,7 @@
         <ruleStatus>ActivationFailed</ruleStatus>
     </matchingRules>
 </MatchingRules>
+=======
+<MatchingRules xmlns="http://soap.sforce.com/2006/04/metadata"/>
+
+>>>>>>> 5d53638... Commit From AutoRABIT

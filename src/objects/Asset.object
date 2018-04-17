@@ -17,6 +17,13 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
+=======
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <actionName>New</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -36,6 +43,7 @@
         <type>Lookup</type>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>AssetLevel</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -50,6 +58,8 @@
         <type>Lookup</type>
     </fields>
     <fields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         <fullName>ContactId</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
@@ -67,10 +77,13 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>IsInternal</fullName>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         <fullName>Name</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -80,11 +93,14 @@
         <type>Lookup</type>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>ParentId</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         <fullName>Price</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -101,6 +117,16 @@
     </fields>
     <fields>
         <fullName>ProductFamily</fullName>
+<<<<<<< HEAD
+=======
+        <picklist>
+            <picklistValues>
+                <fullName>None</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <type>Picklist</type>
     </fields>
     <fields>
@@ -112,23 +138,55 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>RootAssetId</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         <fullName>SerialNumber</fullName>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Status</fullName>
+<<<<<<< HEAD
+=======
+        <picklist>
+            <picklistValues>
+                <fullName>Shipped</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Installed</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Registered</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Obsolete</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Purchased</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>StockKeepingUnit</fullName>
     </fields>
     <fields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         <fullName>UsageEndDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>

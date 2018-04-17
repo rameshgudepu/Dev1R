@@ -21,12 +21,20 @@
                 <value>High</value>
             </criteriaItems>
             <escalationAction>
+<<<<<<< HEAD
                 <assignedTo>eswar.acc1@ar.com</assignedTo>
+=======
+                <assignedTo>eswar.d@dev.com</assignedTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>120</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
+<<<<<<< HEAD
                 <notifyTo>eswar.acc1@ar.com</notifyTo>
+=======
+                <notifyTo>eswar.d@dev.com</notifyTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
@@ -49,12 +57,20 @@
                 <value>Medium,Low</value>
             </criteriaItems>
             <escalationAction>
+<<<<<<< HEAD
                 <assignedTo>eswar.acc1@ar.com</assignedTo>
+=======
+                <assignedTo>eswar.d@dev.com</assignedTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>360</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
+<<<<<<< HEAD
                 <notifyTo>eswar.acc1@ar.com</notifyTo>
+=======
+                <notifyTo>eswar.d@dev.com</notifyTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
@@ -77,12 +93,20 @@
                 <value>High</value>
             </criteriaItems>
             <escalationAction>
+<<<<<<< HEAD
                 <assignedTo>eswar.acc1@ar.com</assignedTo>
+=======
+                <assignedTo>eswar.d@dev.com</assignedTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>240</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
+<<<<<<< HEAD
                 <notifyTo>eswar.acc1@ar.com</notifyTo>
+=======
+                <notifyTo>eswar.d@dev.com</notifyTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
@@ -105,12 +129,20 @@
                 <value>Medium,Low</value>
             </criteriaItems>
             <escalationAction>
+<<<<<<< HEAD
                 <assignedTo>eswar.acc1@ar.com</assignedTo>
+=======
+                <assignedTo>eswar.d@dev.com</assignedTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>480</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
+<<<<<<< HEAD
                 <notifyTo>eswar.acc1@ar.com</notifyTo>
+=======
+                <notifyTo>eswar.d@dev.com</notifyTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
@@ -128,12 +160,20 @@
                 <value>Silver</value>
             </criteriaItems>
             <escalationAction>
+<<<<<<< HEAD
                 <assignedTo>eswar.acc1@ar.com</assignedTo>
+=======
+                <assignedTo>eswar.d@dev.com</assignedTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>720</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
+<<<<<<< HEAD
                 <notifyTo>eswar.acc1@ar.com</notifyTo>
+=======
+                <notifyTo>eswar.d@dev.com</notifyTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
@@ -151,12 +191,20 @@
                 <value>Bronze</value>
             </criteriaItems>
             <escalationAction>
+<<<<<<< HEAD
                 <assignedTo>eswar.acc1@ar.com</assignedTo>
+=======
+                <assignedTo>eswar.d@dev.com</assignedTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>1440</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
+<<<<<<< HEAD
                 <notifyTo>eswar.acc1@ar.com</notifyTo>
+=======
+                <notifyTo>eswar.d@dev.com</notifyTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
@@ -174,12 +222,20 @@
                 <value>Gold,Platinum</value>
             </criteriaItems>
             <escalationAction>
+<<<<<<< HEAD
                 <assignedTo>eswar.acc1@ar.com</assignedTo>
+=======
+                <assignedTo>eswar.d@dev.com</assignedTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>360</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
+<<<<<<< HEAD
                 <notifyTo>eswar.acc1@ar.com</notifyTo>
+=======
+                <notifyTo>eswar.d@dev.com</notifyTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
@@ -197,12 +253,20 @@
                 <value>Silver,Bronze</value>
             </criteriaItems>
             <escalationAction>
+<<<<<<< HEAD
                 <assignedTo>eswar.acc1@ar.com</assignedTo>
+=======
+                <assignedTo>eswar.d@dev.com</assignedTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>1080</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
+<<<<<<< HEAD
                 <notifyTo>eswar.acc1@ar.com</notifyTo>
+=======
+                <notifyTo>eswar.d@dev.com</notifyTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>

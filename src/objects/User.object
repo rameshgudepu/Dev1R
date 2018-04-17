@@ -9,7 +9,11 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
         <actionName>DeleteBannerPhotoAction</actionName>
+=======
+        <actionName>DeletePhotoAction</actionName>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
@@ -21,6 +25,13 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
+=======
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <actionName>FreezeUserAction</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -45,6 +56,7 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
         <actionName>SmsHighlightAction</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -54,6 +66,17 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>UserActivationAction</actionName>
+=======
+        <actionName>UpdatePhotoAction</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>UserActivationAction</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>ViewPhotoAction</actionName>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <type>Default</type>
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
@@ -101,6 +124,10 @@
         <searchResultsAdditionalFields>CORE.USERS.TITLE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CORE.USERS.PHONE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CORE.USERS.EMAIL</searchResultsAdditionalFields>
+<<<<<<< HEAD
+=======
+        <searchResultsAdditionalFields>CORE.USER_ROLE.NAME</searchResultsAdditionalFields>
+>>>>>>> 5d53638... Commit From AutoRABIT
     </searchLayouts>
     <sharingModel>Read</sharingModel>
 </CustomObject>

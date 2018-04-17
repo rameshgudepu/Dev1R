@@ -182,9 +182,12 @@
         <quickActionListItems>
             <quickActionName>FeedItem.QuestionPost</quickActionName>
         </quickActionListItems>
+<<<<<<< HEAD
         <quickActionListItems>
             <quickActionName>SendEmail</quickActionName>
         </quickActionListItems>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
     </quickActionList>
     <relatedContent>
         <relatedContentItems>

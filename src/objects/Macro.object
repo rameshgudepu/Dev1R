@@ -43,12 +43,15 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>IsAlohaSupported</fullName>
     </fields>
     <fields>
         <fullName>IsLightningSupported</fullName>
     </fields>
     <fields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         <fullName>Name</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -57,6 +60,7 @@
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
+<<<<<<< HEAD
     <fields>
         <fullName>StartingContext</fullName>
     </fields>
@@ -71,6 +75,15 @@
         <lookupPhoneDialogsAdditionalFields>LastModifiedDate</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>LastModifiedBy</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>StartingContext</searchResultsAdditionalFields>
+=======
+    <searchLayouts>
+        <customTabListAdditionalFields>LastModifiedDate</customTabListAdditionalFields>
+        <customTabListAdditionalFields>LastModifiedBy</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>LastModifiedDate</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>LastModifiedBy</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>LastModifiedDate</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>LastModifiedBy</lookupPhoneDialogsAdditionalFields>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <searchResultsAdditionalFields>LastModifiedDate</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>LastModifiedBy</searchResultsAdditionalFields>
     </searchLayouts>

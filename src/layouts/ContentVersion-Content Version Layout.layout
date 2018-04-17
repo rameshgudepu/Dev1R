@@ -13,6 +13,21 @@
                 <behavior>Edit</behavior>
                 <field>Description</field>
             </layoutItems>
+<<<<<<< HEAD
+=======
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>TagCsv</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Language</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>OwnerId</field>
+            </layoutItems>
+>>>>>>> 5d53638... Commit From AutoRABIT
         </layoutColumns>
         <layoutColumns/>
         <style>TwoColumnsLeftToRight</style>
@@ -27,6 +42,12 @@
     <miniLayout>
         <fields>Title</fields>
         <fields>Description</fields>
+<<<<<<< HEAD
+=======
+        <fields>TagCsv</fields>
+        <fields>Language</fields>
+        <fields>OwnerId</fields>
+>>>>>>> 5d53638... Commit From AutoRABIT
     </miniLayout>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>

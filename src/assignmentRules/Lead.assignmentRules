@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AssignmentRules xmlns="http://soap.sforce.com/2006/04/metadata">
     <assignmentRule>
+<<<<<<< HEAD
         <fullName>SampleAssignmentRule1</fullName>
         <active>false</active>
         <ruleEntry>
@@ -19,6 +20,12 @@
         <active>true</active>
         <ruleEntry>
             <assignedTo>eswar.acc1@ar.com</assignedTo>
+=======
+        <fullName>Standard</fullName>
+        <active>true</active>
+        <ruleEntry>
+            <assignedTo>eswar.d@dev.com</assignedTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>
@@ -27,7 +34,11 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
+<<<<<<< HEAD
             <assignedTo>eswar.acc1@ar.com</assignedTo>
+=======
+            <assignedTo>eswar.d@dev.com</assignedTo>
+>>>>>>> 5d53638... Commit From AutoRABIT
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>

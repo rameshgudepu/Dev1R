@@ -5,19 +5,27 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
         <actionName>SaveEdit</actionName>
+=======
+        <actionName>SaveNoteAction</actionName>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <type>Default</type>
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <fields>
+<<<<<<< HEAD
         <fullName>ContentSize</fullName>
     </fields>
     <fields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         <fullName>Description</fullName>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>FileExtension</fullName>
     </fields>
     <fields>
@@ -27,6 +35,11 @@
         <fullName>IsAssetEnabled</fullName>
     </fields>
     <fields>
+=======
+        <fullName>FileType</fullName>
+    </fields>
+    <fields>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <fullName>Language</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -40,16 +53,20 @@
         <trackHistory>true</trackHistory>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>SharingPrivacy</fullName>
         <trackHistory>true</trackHistory>
     </fields>
     <fields>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         <fullName>TagCsv</fullName>
     </fields>
     <fields>
         <fullName>Title</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+<<<<<<< HEAD
     <searchLayouts>
         <searchResultsAdditionalFields>VERSION.TITLE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>VERSION.CONTENT_SIZE</searchResultsAdditionalFields>
@@ -57,4 +74,6 @@
         <searchResultsAdditionalFields>VERSION.LAST_UPDATE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>VERSION.OWNER</searchResultsAdditionalFields>
     </searchLayouts>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
 </CustomObject>

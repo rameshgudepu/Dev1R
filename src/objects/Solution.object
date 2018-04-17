@@ -13,6 +13,13 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
+<<<<<<< HEAD
+=======
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -56,17 +63,41 @@
     </fields>
     <fields>
         <fullName>Status</fullName>
+<<<<<<< HEAD
+=======
+        <picklist>
+            <picklistValues>
+                <fullName>Draft</fullName>
+                <default>true</default>
+                <reviewed>false</reviewed>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Reviewed</fullName>
+                <default>false</default>
+                <reviewed>true</reviewed>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Duplicate</fullName>
+                <default>false</default>
+                <reviewed>false</reviewed>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+>>>>>>> 5d53638... Commit From AutoRABIT
         <trackHistory>true</trackHistory>
         <type>Picklist</type>
     </fields>
     <listViews>
         <fullName>AllReviewedSolutions</fullName>
+<<<<<<< HEAD
         <columns>SOLUTION.ISSUE</columns>
         <columns>SOLUTION.SOLUTION_NUMBER</columns>
         <columns>SOLUTION.STATUS</columns>
         <columns>CORE.USERS.ALIAS</columns>
         <columns>SOLUTION.TIMES_USED</columns>
         <columns>SOLUTION.LAST_UPDATE</columns>
+=======
+>>>>>>> 5d53638... Commit From AutoRABIT
         <filterScope>Everything</filterScope>
         <filters>
             <field>SOLUTION.STATUS_CODE</field>
